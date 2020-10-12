@@ -1,3 +1,3 @@
 # Robot-Path-Detection
 
-[![Watch the video](/images/content/4279611/690cc1ce1c97ed83c883846f84451ad3.png)](http://youtu.be/vt5fpE0bzSY)
+[![Result of the project](http://img.youtube.com/vi/ujSPnet0BKs/0.jpg)](http://www.youtube.com/watch?v=ujSPnet0BKs)
